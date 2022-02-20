@@ -45,10 +45,7 @@ header nav ul li a {
 }
 
 /* header nav style end  */
-/* content style here  */
-p { 
-    font-size: 16px;
-} 
+
 
 /* hero section img style  */
 .hero {
@@ -121,6 +118,10 @@ p {
 .benefit-article h3 {
     margin-bottom: 10px;
     text-align: center;
+}
+/* added .benefit-article p styling  */
+.benefit-article p{
+    font-size: 16px;
 }
 /* combine dry code  */
 .benefit-article img {
