@@ -20,33 +20,33 @@ header h1 {
     font-size: 48px;
 }
 /* removed header h1 below  */
-.seo {
+header h1 span{
     color: #d9dcd6;
 }
 /* head navigation here  */
-header div {
+header nav{
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* removed extra dev, ul etc  */
-header ul {
+/* removed extra dev, ul etc add nav // combind a and p */
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px; 
     list-style-type: none;
 }
 
-header li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-header a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
+/* header nav style end  */
+/* content style here  */
+p { 
     font-size: 16px;
 }
 
