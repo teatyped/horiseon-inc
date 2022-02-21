@@ -15,6 +15,6 @@ Scope of project
 Site link
 https://teatyped.github.io/horiseon-inc/
 
-![screenshot](webpag.png)
+![screenshot](webpage.png)
 
 
