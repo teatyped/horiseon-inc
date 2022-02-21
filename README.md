@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 
-#Contributors : Khai Truong
+#Contributors : Khai Truong 
+Date 2/20/2022
 
 Website overview
 -Horiseon social solution services, site will give a general overview of the services offered from horiseon. 
@@ -14,7 +15,6 @@ Scope of project
 Site link
 https://teatyped.github.io/horiseon-inc/
 
-![screenshot](webpage.png)
-
+![screenshot](webpag.png)
 
 
