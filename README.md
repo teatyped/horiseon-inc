@@ -1,7 +1,9 @@
 # Code Refactor Starter Code
 
-#Website overview
-Horiseon social solution services, site will give a general overview of the services offered from horiseon. 
+#Contributors : Khai Truong
+
+Website overview
+-Horiseon social solution services, site will give a general overview of the services offered from horiseon. 
 
 Scope of project
 -refactor code to meet the standards of accessibility
@@ -10,6 +12,10 @@ Scope of project
 
 github repo
 https://github.com/teatyped/horiseon-inc
+
+Site link
+https://teatyped.github.io/horiseon-inc/
+
 
 
 Deployment: 32%
