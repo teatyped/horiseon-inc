@@ -10,22 +10,11 @@ Scope of project
 -correct and clean up html files
 -correct and consolidate DRY code in css
 
-github repo
-https://github.com/teatyped/horiseon-inc
 
 Site link
 https://teatyped.github.io/horiseon-inc/
 
-
-
-Deployment: 32%
-
--Application loads with no errors.
-
--Application GitHub URL submitted.
-
--GitHub repository that contains application code.
+![screenshot](webpage.png)
 
 
 
-Repository contains quality README file with description, screenshot, and link to deployed application.
